@@ -15,5 +15,5 @@
 #         dict: A dictionary with indices as keys and items as items.
 #     '''
     
-def create_indexed_dict(items: list) -> dict:
+# def create_indexed_dict(items: list) -> dict:
     
