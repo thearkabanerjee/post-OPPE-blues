@@ -25,3 +25,13 @@
 
 # # the output -> he22llo2bho2go2baan
 
+string = input('enter string: ')
+
+result = ''
+for i in  range(len(string)):
+    if string[i]== ' ':
+        result += str(i)
+    else:
+        result += string[i]
+
+print (result)
